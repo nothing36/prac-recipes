@@ -1,0 +1,27 @@
+* {
+    background-color: rgb(17, 38, 53);
+}
+
+h1 {
+    color:aliceblue;
+    font-family: monospace, sans-serif;
+    font-size: 48px;
+    margin: 24px;
+}
+
+ul {
+    color: aliceblue;
+    font-size: 36px;
+    margin-left: 48px;
+    padding: 12px;
+}
+
+ul li {
+    margin-bottom: 8px;
+}
+
+a {
+    color: rgb(255, 255, 147);
+    font-family: sans-serif;
+    text-decoration: none;
+}
