@@ -4,23 +4,36 @@
     margin: 24px;
 }
 
+a {
+    margin: 0;
+}
+
 #homelink {
-    margin: 24px;
     font-size: 24px;
     font-family: sans-serif;
     color: rgb(255, 255, 147);
     text-decoration: none;
+    margin: 24px;
 }
 
 #desc {
     font-size: 24px;
     color: rgb(183, 183, 183);
+    display: inline-block;
+    vertical-align: top;
+    width: 500px;
+    margin: 0;
+}
+
+img {
+    display: inline-block;
+    margin-top: 0;
+    margin-left: 30px;
 }
 
 h1 {
     color:aliceblue;
     font-size: 48px;
-    margin: 24px;
 }
 
 h2 {
@@ -30,4 +43,9 @@ h2 {
 
 ul, ol {
     font-size: 24px;
+    color: rgb(183, 183, 183);
+}
+
+ul {
+    margin: 0;
 }
